@@ -1,0 +1,40 @@
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.deps.json
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.csproj.CoreCompileInputs.cache
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.deps.json
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.csproj.CoreCompileInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.deps.json
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.csproj.CoreCompileInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.deps.json
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Base\bin\Debug\netstandard2.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.csproj.CoreCompileInputs.cache
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Base\obj\Debug\netstandard2.0\SysBot.Base.pdb

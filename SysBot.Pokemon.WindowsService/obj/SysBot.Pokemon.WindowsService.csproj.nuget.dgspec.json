@@ -1,0 +1,569 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.WindowsService\\SysBot.Pokemon.WindowsService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj",
+        "projectName": "SysBot.Base",
+        "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj",
+        "packagesPath": "C:\\Users\\Xieon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Xieon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "LibUsbDotNet": {
+              "target": "Package",
+              "version": "[2.2.29, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.11, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj",
+        "projectName": "SysBot.Pokemon.ConsoleApp",
+        "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Xieon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Xieon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj"
+              },
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Twitch\\SysBot.Pokemon.Twitch.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Twitch\\SysBot.Pokemon.Twitch.csproj"
+              },
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Web\\SysBot.Pokemon.Web.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Web\\SysBot.Pokemon.Web.csproj"
+              },
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Z3\\SysBot.Pokemon.Z3.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Z3\\SysBot.Pokemon.Z3.csproj"
+              },
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj",
+        "projectName": "SysBot.Pokemon.Discord",
+        "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Discord\\SysBot.Pokemon.Discord.csproj",
+        "packagesPath": "C:\\Users\\Xieon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Discord\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Xieon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj"
+              },
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "PKHeX.Core": {
+              "target": "Package",
+              "version": "[23.9.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Twitch\\SysBot.Pokemon.Twitch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Twitch\\SysBot.Pokemon.Twitch.csproj",
+        "projectName": "SysBot.Pokemon.Twitch",
+        "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Twitch\\SysBot.Pokemon.Twitch.csproj",
+        "packagesPath": "C:\\Users\\Xieon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Twitch\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Xieon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj"
+              },
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "PKHeX.Core": {
+              "target": "Package",
+              "version": "[23.9.25, )"
+            },
+            "TwitchLib.Client": {
+              "target": "Package",
+              "version": "[3.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Web\\SysBot.Pokemon.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Web\\SysBot.Pokemon.Web.csproj",
+        "projectName": "SysBot.Pokemon.Web",
+        "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Web\\SysBot.Pokemon.Web.csproj",
+        "packagesPath": "C:\\Users\\Xieon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Xieon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj"
+              },
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "PKHeX.Core": {
+              "target": "Package",
+              "version": "[23.9.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.WindowsService\\SysBot.Pokemon.WindowsService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.WindowsService\\SysBot.Pokemon.WindowsService.csproj",
+        "projectName": "SysBot.Pokemon.WindowsService",
+        "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.WindowsService\\SysBot.Pokemon.WindowsService.csproj",
+        "packagesPath": "C:\\Users\\Xieon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.WindowsService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Xieon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.ConsoleApp\\SysBot.Pokemon.ConsoleApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Z3\\SysBot.Pokemon.Z3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Z3\\SysBot.Pokemon.Z3.csproj",
+        "projectName": "SysBot.Pokemon.Z3",
+        "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Z3\\SysBot.Pokemon.Z3.csproj",
+        "packagesPath": "C:\\Users\\Xieon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon.Z3\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Xieon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Z3.x64": {
+              "target": "Package",
+              "version": "[4.8.10, )"
+            },
+            "PKHeX.Core": {
+              "target": "Package",
+              "version": "[23.9.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj",
+        "projectName": "SysBot.Pokemon",
+        "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\SysBot.Pokemon.csproj",
+        "packagesPath": "C:\\Users\\Xieon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Pokemon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Xieon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj": {
+                "projectPath": "C:\\Users\\Xieon\\Desktop\\repositories\\new private\\XSyxBot_Berichan_PrivateEdits\\SysBot.Base\\SysBot.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "PKHeX.Core": {
+              "target": "Package",
+              "version": "[23.9.25, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

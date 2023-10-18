@@ -1,0 +1,64 @@
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.deps.json
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.pdb
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\PKHeX.Core.AutoMod.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.CoreCompileInputs.cache
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.CopyComplete
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\refint\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.pdb
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\ref\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.CoreCompileInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\refint\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.pdb
+C:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.deps.json
+C:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.dll
+C:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.pdb
+C:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\PKHeX.Core.AutoMod.dll
+C:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Base.dll
+C:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Base.pdb
+C:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.CopyComplete
+C:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Pokemon\obj\Debug\net7.0\ref\SysBot.Pokemon.dll
+C:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.deps.json
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.pdb
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\bin\Debug\net7.0\PKHeX.Core.AutoMod.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.CopyComplete
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\obj\Debug\net7.0\refint\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.pdb
+C:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Pokemon\obj\Debug\net7.0\ref\SysBot.Pokemon.dll
+C:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.deps.json
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Pokemon.pdb
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\bin\Debug\net7.0\PKHeX.Core.AutoMod.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\bin\Debug\net7.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.csproj.CopyComplete
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\obj\Debug\net7.0\refint\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\obj\Debug\net7.0\SysBot.Pokemon.pdb
+C:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Pokemon\obj\Debug\net7.0\ref\SysBot.Pokemon.dll

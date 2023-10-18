@@ -1,0 +1,448 @@
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\testhost.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\testhost.exe
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.deps.json
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.runtimeconfig.json
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.pdb
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\FluentAssertions.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\LibUsbDotNet.LibUsbDotNet.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\NLog.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\PKHeX.Core.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.assert.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.core.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\PKHeX.Core.AutoMod.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Pokemon.pdb
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.CoreCompileInputs.cache
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.CopyComplete
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\refint\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.pdb
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.genruntimeconfig.cache
+c:\Users\Xieon\Desktop\repositories\test2\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\ref\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\refint\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.pdb
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\testhost.exe
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\testhost.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.deps.json
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.runtimeconfig.json
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.pdb
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\FluentAssertions.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\LibUsbDotNet.LibUsbDotNet.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\NLog.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\PKHeX.Core.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.assert.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.core.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\PKHeX.Core.AutoMod.dll
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\bin\Debug\net7.0\SysBot.Pokemon.pdb
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.CoreCompileInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.CopyComplete
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.genruntimeconfig.cache
+c:\Users\Xieon\Desktop\repositories\test\SysBot.PokemonScarletViolet\SysBot.Tests\obj\Debug\net7.0\ref\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\testhost.exe
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\testhost.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.deps.json
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.runtimeconfig.json
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.pdb
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\FluentAssertions.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\LibUsbDotNet.LibUsbDotNet.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\NLog.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\PKHeX.Core.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\xunit.assert.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\xunit.core.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\PKHeX.Core.AutoMod.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\bin\Debug\net7.0\SysBot.Pokemon.pdb
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.CoreCompileInputs.cache
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.CopyComplete
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\refint\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.pdb
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.genruntimeconfig.cache
+c:\Users\Xieon\Desktop\repositories\test\xieongaming-sysbotfork\SysBot.Tests\obj\Debug\net7.0\ref\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\testhost.exe
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\testhost.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.deps.json
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.runtimeconfig.json
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\SysBot.Tests.pdb
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\FluentAssertions.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\LibUsbDotNet.LibUsbDotNet.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\NLog.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\NuGet.Frameworks.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\PKHeX.Core.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\xunit.abstractions.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\xunit.assert.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\xunit.core.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\xunit.execution.dotnet.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\SysBot.Base.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\SysBot.Pokemon.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\PKHeX.Core.AutoMod.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\SysBot.Base.pdb
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\bin\Debug\net7.0\SysBot.Pokemon.pdb
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.AssemblyReference.cache
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.AssemblyInfoInputs.cache
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.AssemblyInfo.cs
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.CoreCompileInputs.cache
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.csproj.CopyComplete
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\refint\SysBot.Tests.dll
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.pdb
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\SysBot.Tests.genruntimeconfig.cache
+c:\Users\Xieon\Desktop\repositories\new private\XSyxBot_Berichan_PrivateEdits\SysBot.Tests\obj\Debug\net7.0\ref\SysBot.Tests.dll
