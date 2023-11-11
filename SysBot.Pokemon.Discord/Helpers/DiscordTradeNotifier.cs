@@ -111,12 +111,25 @@ namespace SysBot.Pokemon.Discord
             var spe = Data.IV_SPE;
             var spa = Data.IV_SPA;
             var hp = Data.IV_HP;
-            //moves
+            var ivtotal = atk + def + spd + spe + spa + hp;
+            var missing = 186 - ivtotal;
+            var perfect = $"";
+            if(missing == 0)
+            {
+                perfect = $"This pokemon has perfect 6 IV's";
+            }
+            else
+            {
+                perfect = $"This pokemon is {missing} IV points away from perfect";
+            }
+            
+            /* moves
             var m1 = Data.Move1;
             var m2 = Data.Move2;
             var m3 = Data.Move3;
             var m4 = Data.Move4;
             var moveset = $"Moves {m1}  /  {m2}  / {m3}  / {m4} "; 
+            */
 
             // Beginning of the ball code - Must be changed to reflect the correct emotes for the discord servers it's operating in
             // Define a dictionary to map integer values to emote strings
@@ -128,31 +141,33 @@ namespace SysBot.Pokemon.Discord
             
             Dictionary<int, string> ballEmotes = new()
             {
-                { 1, ":ball_Master:" },
-                { 2, ":ball_Ultra:" },
-                { 3, ":ball_Great:" },
-                { 4, ":ball_Poke:" },
-                { 5, ":ball_net:" },
-                { 6, ":ball_dive:" },
-                { 7, ":ball_nest:" },
-                { 8, ":ball_repeat:" },
-                { 9, ":ball_timer:" },
-                { 10, ":ball_luxury:" },
-                { 11, ":ball_pre:" },
-                { 12, ":ball_dusk:" },
-                { 13, ":ball_heal:" },
-                { 14, ":ball_quick:" },
-                { 15, ":ball_fast:" },
-                { 16, ":ball_Level:" },
-                { 17, ":ball_lure:" },
-                { 18, ":ball_heavy:" },
-                { 19, ":ball_love:" },
-                { 20, ":ball_friend:" },
-                { 21, ":ball_moon:" },
-                { 22, ":ball_dream:" },
-                { 23, ":ball_beast:" },
-                { 24, ":ball_safari:" },
-                { 25, ":ball_cherish:" }
+                { 1, "ball_master" },
+                { 2, "ball_ultra" },
+                { 3, "ball_great" },
+                { 4, "ball_poke" },
+                { 5, "ball_safari" },
+                { 6, "ball_net" },
+                { 7, "ball_dive" },
+                { 8, "ball_nest" },
+                { 9, "ball_repeat" },
+                { 10, "ball_timer" },
+                { 11, "ball_luxury" },
+                { 12, "ball_pre"},
+                { 13, "ball_dusk" },
+                { 14, "ball_heal" },
+                { 15, "ball_quick" },
+                { 16, "ball_cherish" },
+                { 17, "ball_fast" },
+                { 18, "ball_level" },
+                { 19, "ball_lure" },
+                { 20, "ball_heavy" },
+                { 21, "ball_love"},
+                { 22, "ball_friend" },
+                { 23, "ball_moon" },
+                { 24, "ball_safari" },
+                { 25, "ball_dream" },
+                { 26, "ball_beast" },
+                { 27, "ball_strange"}
             };
 
             
@@ -174,7 +189,7 @@ if (ballEmotes.TryGetValue(ballValue, out string ballEmoteFromDictionary)) // Th
 else
 {
     // Handle the case where Data.Ball does not match any known value
-    ballEmbed = noball;
+    ballEmbed = $"ball_strange";
 }
 
 var ot = Data.OT_Name;
@@ -183,65 +198,54 @@ var stats = $"ATK:{atk} / DEF:{def} / SpD:{spd} / SpA:{spa} / Spe:{spe} / HP:{hp
 
 // Check if Data.IsShiny is true and set the shiny string accordingly
 string shiny = Data.IsShiny ? ":sparkles:" : "";
-    
+var form = Data.Form;
+//Base URL Directory from the XGC Github to link directly to the balls.
+// https://github.com/Xieons-Gaming-Corner/balls/blob/main/ball_master.png?raw=true
+//https://github.com/Xieons-Gaming-Corner/balls/blob/e63fe163b12fdbf653e55fa833a9efc47b6e2d71/ball_master.png?raw=true  
+                       
+                        
+                        
+                        
+                        //Assemble the ball image url
+                        string ballurl = $"https://github.com/Xieons-Gaming-Corner/balls/blob/e63fe163b12fdbf653e55fa833a9efc47b6e2d71/";
+                        var thumbnailurl = $"{ballurl}/{ballEmbed}.png?raw=true";
 
                         // If the pokemon traded {(Species)tradedToUser} matches the name of a pokemon in our folder we display that image in the embed - 
                         // This code could be cleaner - Variable for if exists - if yes then embed.WithImageUrl, else nothing, send to channel
                         //if (File.Exists(imagePath))
                         if (File.Exists(imagePath))     
                         {
+
                             var embed = new EmbedBuilder();
-                            embed.WithTitle("XGC HAS COMPLETED A MEMBER TRADE REQUEST");
+                            embed.WithTitle("TRAINER REQUEST COMPLETED");
+                            embed.WithThumbnailUrl(thumbnailurl);
                             embed.AddField("Trainer", Trader.Mention, true); // Display trainer's name in an inline field
-                            embed.AddField("Received Pokémon", $"{shiny}{(Species)tradedToUser}", true); // Display received Pokémon with or without shiny indicator
+                            embed.AddField("Received Pokémon", $"{shiny}{(Species)tradedToUser} Species Form:{form}", true); // Display received Pokémon with or without shiny indicator
                             embed.AddField("Trainer IG Info", $"OT: {ot} / TID: {tid}");
-                            embed.AddField("IV Spread", $"{stats}", true);
-                            embed.AddField("MOVES #'s", $"{m1}\n{m2}\n{m3}\n{m4}");
-                            embed.AddField("Breloom?", $"Breloom override is off, if it was on would you have gotten Breloom instead?{breloom}");
-
-
-                           
-                            //If the ball requested is in XGC Server - how do we display it as an image in the embed? 
-                            /*
-                            if(Data.Ball== 7 )//  https://cdn.discordapp.com/emojis/1089614882132996257.webp?size=160&quality=lossless   Nest ball test
-                            { 
-                                ballEmbed =  $":nest_ball: https://cdn.discordapp.com/emojis/1089614882132996257.webp?size=160&quality=lossless";
-                            }                
-                            else if(Data.Ball==22)
-                            {
-                                ballEmbed = $"https://discord.com/channels/829181609156411463/1154192793699369010/1157837932737073172";  //loveball test
-                            }
-                            else if(Data.Ball ==1)   
-                            {
-                                ballEmbed = $"Your Pokemon should be in a Master Ball {colon}{dream}{colon}"; // new format test 
-                            }         
-                            else
-                            {
-                                ballEmbed = $"That balls image is not currently available - you recieved a {Data.Ball}";  //Displays the number of the ball if no image.
-                            }
-                            embed.AddField("BALL", ballEmbed);
-                            */
-
+                            embed.AddField("IV Spread", $"{stats}\n {perfect}", true);
+                            embed.AddField("MOVES #'s", $"{Data.Moves}");
+                            embed.AddField("Debugging Field:", $" thumbnailurl ={thumbnailurl}, Would you have got a breloom?: {breloom}");                                     
                             embed.AddField("Thanks for being a member", ":heart:"); // Display a heart thanking the user for using the bot
+                           
                             // Attach the POKEMON.PNG file to the embed as an image
                             embed.WithImageUrl($"attachment://{imageName}");
                             // Send the embed with the attached image in tbalhe same channel where the command was sent
-                          await CommandSentChannel.SendFileAsync(imagePath, embed: embed.Build()).ConfigureAwait(false);
+                            await CommandSentChannel.SendFileAsync(imagePath, embed: embed.Build()).ConfigureAwait(false);
                         }
           
-            else
-            {
-                // Create and send embed to display trainer's name and received Pokémon Stats
-                var embed = new EmbedBuilder();
-                embed.WithTitle("XIEON's GAMING CORNER COMPLETED TRADE");
-                embed.AddField("Trainer Name", Trader.Mention, true); // Display trainer's name  
-                embed.AddField("Received Pokémon", $"{(Species)tradedToUser}", true); // Display received Pokémon 
-                embed.AddField("Trainer Info",$"OT:{ot} / TID:{tid}");
-                embed.AddField("IV Spread",$"{stats}",true);
-                //embed.AddField("Ball",$"{ballemote}",true);
-                embed.AddField("Thanks for being a member", ":heart:"); // Display a heart thanking the user for using the bot
-                await CommandSentChannel.SendMessageAsync(embed: embed.Build()).ConfigureAwait(false); // Send the embed in the same channel where the command was sent
-            }
+                        else
+                        {
+                            // Create and send embed to display trainer's name and received Pokémon Stats minus the image
+                            var embed = new EmbedBuilder();
+                            embed.WithTitle("XIEON's GAMING CORNER COMPLETED TRADE");
+                            embed.WithThumbnailUrl(thumbnailurl);
+                            embed.AddField("Trainer Name", Trader.Mention, true); // Display trainer's name  
+                            embed.AddField("Received Pokémon", $"{(Species)tradedToUser}, Form:{form}", true); // Display received Pokémon 
+                            embed.AddField("Trainer Info",$"OT:{ot} / TID:{tid}");
+                            embed.AddField("IV Spread",$"{stats}",true);
+                            embed.AddField("Thanks for being a member", ":heart:"); // Display a heart thanking the user for using the bot
+                            await CommandSentChannel.SendMessageAsync(embed: embed.Build()).ConfigureAwait(false); // Send the embed in the same channel where the command was sent
+                        }
         }
 
 
